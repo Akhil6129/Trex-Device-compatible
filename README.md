@@ -1,1 +1,2 @@
-# Trex-Device-compatible
+# PROC18-V3ColorfullTrex
+Colorful Trex
